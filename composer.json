@@ -1,0 +1,15 @@
+{
+    "name": "unclecheese/zero",
+    "description": "The worst module ever.",
+    "type": "silverstripe-module",
+    "keywords": ["fail", "zero", "zilch", "goose-egg"],	
+    "authors": [
+    {
+        "name": "Uncle Cheese",
+        "email": "unclecheese@leftandmain.com"
+    }],
+    "require": {
+        "silverstripe/framework": "~6.1"
+    }
+    
+}

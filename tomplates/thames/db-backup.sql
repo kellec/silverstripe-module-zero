@@ -1,0 +1,1 @@
+DROP TABLE Site_Tree;
